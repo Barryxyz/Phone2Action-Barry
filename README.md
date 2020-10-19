@@ -12,7 +12,7 @@ To run this you will need:
 2. Java version "1.8.0_251"
 3. Apache Maven 3.6.3
 
-To run my back-end application you will need to go into the repo and run "mvn spring-boot: run" and it will be hosted on "localhost:8080"
+To run my back-end application you will need to go into the "Phone2Action" repo and run "mvn spring-boot: run" and it will be hosted on "localhost:8080"
 
 The api by default is set to use my free trial Twilio account, so only verfied numbers that I added will be valid. 
 You may edit the applications.properties file to user your own Twilio account to test other numbers.
