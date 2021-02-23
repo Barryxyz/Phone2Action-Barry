@@ -1,4 +1,4 @@
-package com.example.Phone2Action.domain;
+package com.example.TextSubscriptionApp.domain;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

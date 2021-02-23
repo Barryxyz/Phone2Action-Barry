@@ -1,4 +1,4 @@
-package com.example.Phone2Action.controller;
+package com.example.TextSubscriptionApp.controller;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -10,10 +10,10 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.example.Phone2Action.dao.SubscriptionRepository;
-import com.example.Phone2Action.domain.IncomingMessage;
-import com.example.Phone2Action.domain.Subscriber;
-import com.example.Phone2Action.service.Messenger;
+import com.example.TextSubscriptionApp.dao.SubscriptionRepository;
+import com.example.TextSubscriptionApp.domain.IncomingMessage;
+import com.example.TextSubscriptionApp.domain.Subscriber;
+import com.example.TextSubscriptionApp.service.Messenger;
 
 import java.util.List;
 

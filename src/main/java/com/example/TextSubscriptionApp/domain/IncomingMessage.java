@@ -1,4 +1,4 @@
-package com.example.Phone2Action.domain;
+package com.example.TextSubscriptionApp.domain;
 
 public class IncomingMessage {
 	private String message;
