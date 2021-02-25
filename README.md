@@ -1,3 +1,5 @@
+Web app that uses the Twilio API to register subscribers and message those subscribers
+
 This API allows the UI to add subscribers as well as send messages to those subscribers.
 
 UI url: https://github.com/Barryxyz/Text-Subscription-App-UI
