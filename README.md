@@ -1,5 +1,7 @@
 This API allows the UI to add subscribers as well as send messages to those subscribers.
 
+UI url: https://github.com/Barryxyz/Text-Subscription-App-UI
+
 The technologies I used are:
 1. Angular
 2. Spring-boot/Java/Maven
